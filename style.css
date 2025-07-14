@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+header{
+    height: 200px;
+    background-color: crimson;
+}
